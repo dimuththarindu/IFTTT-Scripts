@@ -16,7 +16,7 @@ try
 	var sourceFeedCategory	= Feed.newFeedItem.FeedTitle; // Ex. Top Trending Technology post
 	var sourceFeedURL 		= Feed.newFeedItem.FeedUrl; // Ex. Reddit.com/r/Technology
 
-	var appletID 		= "Rz23VGiJ"; 
+	var appletID 		= "xXxXxXxX"; 
 	var serviceTrigger 	= "RSS";
 	var serviceAction 	= "GoogleSheets";
 	var appletVersion 	= "V3";
